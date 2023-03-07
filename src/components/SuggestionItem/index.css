@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.arrow {
+  height: 30px;
+}
